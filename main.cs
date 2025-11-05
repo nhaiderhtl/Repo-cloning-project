@@ -1,8 +1,5 @@
-Console.WriteLine("This is a fork!");
-
-class Program{
-    public static void main(string[] args){
-        Console.WriteLine("Hello Kerim and Fridolin!");
-
+class Program {
+    private static void Main(string[] args) {
+        System.Console.WriteLine("Hello, World!");
     }
 }
